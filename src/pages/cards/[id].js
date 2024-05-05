@@ -271,7 +271,7 @@ export default function Card() {
 			<Webcam
 				ref={webcamRef}
 				style={{
-					visibility: "hidden",
+					
 					position: "absolute",
 					marginLeft: "auto",
 					marginRight: "auto",
@@ -289,7 +289,7 @@ export default function Card() {
 				ref={canvasRef}
 				style={{
 					position: "absolute",
-					visibility: "hidden",
+					
 					marginLeft: "auto",
 					marginRight: "auto",
 					left: 0,
